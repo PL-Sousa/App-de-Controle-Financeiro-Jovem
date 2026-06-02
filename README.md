@@ -1,5 +1,5 @@
 # App-de-Controle-Financeiro-Jovem
-🚀 Nome do Projeto: App de Controle Financeiro Jovem
+🚀 Nome do Projeto:  
 
 Squad (Equipe): Equipe Devs
 Integrante 1: Thayná Rodrigues
